@@ -1,4 +1,4 @@
-# cppMemoryGamea
+# cppMemoryGame
 It's a text based memory game made in cpp as a class so can be easily reused. This is functional across all platform that is no specific OS libraries are used.
 
 Memory games classics that never get old. Memory Match is one classic memory game based on the traditional board game where you have to pair matching cards that are upside down. This text based matching game will challenge your memory, concentration, attention and test your brain skills. Memory Match is a great way to exercise your memory and test your brain. Find the matching tiles!
