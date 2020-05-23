@@ -35,9 +35,9 @@ This game is made fundamentally as a class, so can be easily reused.
 
 Libraries Required:
 <ul>
-<li>\<iostream\></li>
-<li>\<stdlib.h\></li>
-<li>\<iomanip\></li>
-<li>\<random\></li>
-<li>\<algorithm\></li>
+<li>iostream</li>
+<li>stdlib.h</li>
+<li>iomanip</li>
+<li>random</li>
+<li>algorithm</li>
 </ul>
